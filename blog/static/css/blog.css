@@ -1,0 +1,58 @@
+h1 a {
+    color: #660066;
+    font-family: 'Lobster';
+}
+
+body {
+    padding-left: 20px;
+}
+
+<a href="https://en.wikipedia.org/wiki/Django" class="external_link" id="link_to_wiki_page">
+
+.page-header {
+    background-color: #FF0099;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #00FFFF;
+    font-size: 45pt;
+    text-decoration: none;
+}
+
+.content {
+    margin-left: 80px;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Lobster', cursive;
+}
+
+.date {
+    color: #6666CC;
+}
+
+.save {
+    float: right;
+}
+
+.post-form textarea, .post-form input {
+    width: 150%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 30pt;
+    margin-right: 25px;
+}
+
+.post {
+    margin-bottom: 70px;
+}
+
+.post h1 a, .post h1 a:visited {
+    color: #000000;
+}
+
